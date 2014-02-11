@@ -4,7 +4,7 @@ README
 ## by Edgar Allan Poe
 
 * The Raven
-* Dream within a dream
+* Dream within a Dream
 * City
 
 
