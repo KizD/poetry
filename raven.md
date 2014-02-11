@@ -10,4 +10,5 @@ As of some one gently rapping, rapping at my chamber door.
             
             
 Ah, distinctly I remember it was in the bleak December;
-And each separate dying ember wrought its ghost upon the floor. 
+And each separate dying ember wrought its ghost upon the floor.
+Eagerly I wished the morrow;—vainly I had sought to borrow 
